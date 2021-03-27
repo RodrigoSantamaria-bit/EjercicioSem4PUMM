@@ -6,8 +6,10 @@ Problema 1: Suma de 1 a 100
 
 // Crea un ciclo que sume todos los números de 1 a 100 [1,100] y guarda la suma en la variable suma
 let suma = 0;
-
+let N = suma 
 // Aquí va tu ciclo
+for (let N=1; N<=100; N++)
+suma = suma + N
 
 
 console.log('La suma de 1 a 100 es', suma);
